@@ -5,7 +5,7 @@
 
 1. **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/NikitaTichonow/react-movie
+    git clone https://github.com/NikitaTichonow/movie-react-app
 
 2. **Перейдите в папку проекта:**
     ```bash
