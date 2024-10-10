@@ -31,5 +31,8 @@
    
     После завершения всех вышеуказанных шагов, приложение будет доступно по адресу http://localhost:3000/
 
-
-![foto](movie1.jpg)
+<p align="center">
+  <img src="foto/movie1.jpg" width="350">
+  <img src="foto/movie2.jpg" width="350">
+  <img src="foto/movie3.jpg" width="350">
+</p>
